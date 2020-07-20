@@ -1,0 +1,6 @@
+1. Periksa apakah composer sudah terinstal atau belum pada laptop
+2. Arahkan ke dirctory lokasi file server xamp secara default yaitu htdocs( cd \xampp\htdocs )
+3. Untuk menginstal Laravel with composer , Gunakan perintah(composer create -project --prefer-dist laravel/laravel Laravel)
+4. Setelah proses instal selesai arahkan ke directory folder laravelnya 
+5. jalankan localhostnya dengan perintah ( php artisan serve ) 
+6. buka browser lalu ketik localhost:8000.
